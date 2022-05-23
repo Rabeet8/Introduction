@@ -1,4 +1,4 @@
-Hi 👋 My name is Syed Rabeet, I am a Computer science student and Blockchain and Web3 really fantasize me.
+Hi 👋 My name is Syed Rabeet, I am a Computer science student, Blockchain and Web3 really fantasize me.
 ==========================================================================================================
 
 I have been coding for the past 1 year started with python basics then jump onto HTML,CSS and JAVASCRIPT, also I have build some smart contract on solidity
